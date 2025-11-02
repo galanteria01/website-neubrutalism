@@ -1,4 +1,3 @@
-import { ChevronDown, Zap } from "lucide-react";
 import React from "react";
 import { quotes } from "../data/Constants";
 

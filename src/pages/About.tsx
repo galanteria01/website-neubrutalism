@@ -1,4 +1,4 @@
-import { ChevronDown, Github, Linkedin, Mail, Zap } from "lucide-react";
+import { Github, Linkedin, Mail } from "lucide-react";
 import React from "react";
 
 type Props = {

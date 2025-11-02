@@ -1,4 +1,4 @@
-import { ChevronDown, Github, Mail, Star, Zap } from "lucide-react";
+import { Github, Mail, Star } from "lucide-react";
 import React from "react";
 import { quotes } from "../data/Constants";
 

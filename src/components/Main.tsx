@@ -1,16 +1,8 @@
 import { useState, useEffect } from "react";
 import {
-  Github,
-  Linkedin,
-  Mail,
-  ChevronDown,
-  Zap,
-  Star,
   Moon,
   Sun,
 } from "lucide-react";
-import SkillsSwiper from "./SkilsSwiper";
-import { quotes, skills } from "../data/Constants";
 import HeroPage from "../pages/Hero";
 import AboutPage from "../pages/About";
 import ExperiencePage from "../pages/Experience";

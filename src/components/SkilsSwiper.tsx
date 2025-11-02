@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Heart, X, ThumbsUp, ThumbsDown } from "lucide-react";
+import { Heart, X } from "lucide-react";
 
 interface Skill {
   name: string;
